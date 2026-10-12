@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=ScrptLab&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Oyun%20%26%20Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=ScrptLab&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Oyun%20ve%20Yaz%C4%B1l%C4%B1m%20Geli%C5%9Ftirici&descAlignY=60&descSize=18" width="100%"/>
 
 <a href="https://scrptlab.com">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Merhaba%2C+ben+ScrptLab+%F0%9F%91%8B;Oyun+%2B+Program+Geli%C5%9Ftirici;Web+%E2%80%A2+Masa%C3%BCst%C3%BC+%E2%80%A2+AI+%E2%80%A2+iOS+Oyun" alt="Typing SVG" />
